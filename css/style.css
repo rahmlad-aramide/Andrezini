@@ -83,7 +83,9 @@ Old root
 	--f3f3f3: #c8c8c8;
 	--26282f: #d9d7d0;
 	--292929: #d6d6d6;
-	--2d2d32: #d2d2cd;
+
+	--2d2d32: #ffffff;
+	
 	--343438: #cbcbc7;
 	--35353a: #cacac5;
 	--36393e: #c8c5c0;
@@ -2723,7 +2725,7 @@ section  {
 	z-index: 300;
 }
 .gallery-filters {
-	margin-top: -10px;
+	margin-top: -2rem;
 }
 .gallery-filters a{
 	display: inline-block;
