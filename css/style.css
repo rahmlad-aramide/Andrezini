@@ -1617,6 +1617,9 @@ section  {
     line-height: 34px;
 	position: relative;
 }
+.section-title h2.rev {
+    color: var(--fff);
+}
 .section-title h2:before {
 	content: '';
 	position: absolute;
@@ -1639,6 +1642,9 @@ section  {
     position: relative;
     z-index: 2;
     max-width: 450px;
+}
+.section-title p.inverse {
+	color: var(--eee);
 }
 .section-title_num {
 	position: absolute;
@@ -1682,6 +1688,22 @@ section  {
 	background: var(--fff);
 	overflow: hidden;
 }
+.sec_fw_rev {
+	background: var(--000) !important;
+	overflow: hidden;
+}
+.sec_fw_rev h2 {
+	color: var(--fff);
+}
+.sec_fw_rev p {
+	color: var(--eee) !important;
+}
+.bg-overlay {
+	/* background-image: url("images/bg/dec.jpg"), linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) !important;
+    background-blend-mode: overlay; */
+	background: linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url("images/bg/dec.jpg");
+}
+
 .serv-carousel_wrap {
 	padding:0  0 0 25%;
  	background: var(--2d2d32);
@@ -1760,7 +1782,7 @@ section  {
 	padding-bottom: 20px;	
 }
 .serv-carousel_title_wrap.tct_it {
-	bottom: 40px;
+	/* bottom: 40px; */
 }
 .serv-carousel_title_wrap h3 {
 	font-size: 26px;
@@ -2196,6 +2218,10 @@ section  {
 .testimonilas-wrap {
  	background: var(--343438);
 	padding: 0 0 0 25%;
+}
+.testimonilas-wrap-rev {
+	background: var(--000) !important;
+   padding: 0 0 0 25%;
 }
 .testimonilas-wrap:before {
 	content: '';
@@ -2725,7 +2751,7 @@ section  {
 	z-index: 300;
 }
 .gallery-filters {
-	margin-top: -2rem;
+	margin-top: -10px;
 }
 .gallery-filters a{
 	display: inline-block;
