@@ -292,7 +292,7 @@ blockquote p {
     transition: all .2s ease-in-out;
 }
 /* ---------Content Styles--------------------------------------*/
-#main{
+/* #main{
 	height:100%;
 	width:100%;
 	position:absolute;
@@ -300,7 +300,7 @@ blockquote p {
 	left:0;
 	z-index:2;
 	opacity:0;
-}
+} */
 #wrapper{
 	vertical-align:top;
 	position: absolute;
@@ -366,7 +366,7 @@ blockquote p {
 	width:100%;
 	height:auto;
 }
-.overlay {
+/* .overlay {
 	position:absolute;
 	top:0;
 	left:0;
@@ -375,7 +375,7 @@ blockquote p {
 	background:var(--000);
 	opacity:0.5;
 	z-index:2;
-}
+} */
 .no-padding {
 	padding:0 !important;
 }
