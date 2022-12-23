@@ -339,6 +339,16 @@ blockquote p {
 	z-index:4;
 	float:left;
 }
+.overlayed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	background:#fff;
+	opacity:0.3;
+	z-index:2;
+}
 .fl-wrap {
 	float:left;
 	width:100%;
@@ -1073,7 +1083,7 @@ blockquote p {
  	left: 20px;
 }
 .hero-slider-button-next {
- 	right: 460px;	
+ 	right: 100px;	
 } 
 .hlaf-slider-pag {
     position: absolute;
@@ -3212,7 +3222,7 @@ section  {
 	z-index: -1;
 }
 .next-project-wrap {
-	top: 150px;
+	top: 100px;
 	color:var(--fff);
 	text-align: left;
 	padding: 0 0 0 50px;
@@ -4249,7 +4259,7 @@ background: var(--orgb8);
     margin-left: 70px;
 }
 .hero-slider-button-next {
-    right: 340px;
+    right: 80px;
 }
 .hero-slider-button-prev {
     left: 0;
