@@ -46,16 +46,16 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085467/circo/CIROC_BAR_heea2l.jpg"   alt="ciroc 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085467/circo/CIROC_BAR_heea2l.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085467/circo/CIROC_BAR_heea2l.jpg"   alt="ciroc 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085467/circo/CIROC_BAR_heea2l.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
 
                                         
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085465/circo/CIROC_BAR_2_oapxqv.jpg"   alt="ciroc 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085465/circo/CIROC_BAR_2_oapxqv.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085465/circo/CIROC_BAR_2_oapxqv.jpg"   alt="ciroc 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085465/circo/CIROC_BAR_2_oapxqv.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                         
                                     </div>
                                     <!-- swiper-slide end-->                                      

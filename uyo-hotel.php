@@ -58,32 +58,32 @@
                                     <!-- swiper-slide end-->                                      
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230653/uyo%20hotel/UYO_HOTEL_9_l3zbaf.jpg"   alt="Uyo Hotel">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230653/uyo%20hotel/UYO_HOTEL_9_l3zbaf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230653/uyo%20hotel/UYO_HOTEL_9_l3zbaf.jpg"   alt="Uyo Hotel">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230653/uyo%20hotel/UYO_HOTEL_9_l3zbaf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->                                      
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230653/uyo%20hotel/UYO_HOTEL_10_cmif97.jpg"   alt="Uyo Hotel">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230653/uyo%20hotel/UYO_HOTEL_10_cmif97.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230653/uyo%20hotel/UYO_HOTEL_10_cmif97.jpg"   alt="Uyo Hotel">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230653/uyo%20hotel/UYO_HOTEL_10_cmif97.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->                                      
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230652/uyo%20hotel/UYO_HOTEL_2_cro0ah.jpg"   alt="Uyo Hotel">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230652/uyo%20hotel/UYO_HOTEL_2_cro0ah.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230652/uyo%20hotel/UYO_HOTEL_2_cro0ah.jpg"   alt="Uyo Hotel">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230652/uyo%20hotel/UYO_HOTEL_2_cro0ah.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->                                      
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230652/uyo%20hotel/UYO_HOTEL_7_bmkkti.jpg"   alt="Uyo Hotel">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230652/uyo%20hotel/UYO_HOTEL_7_bmkkti.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230652/uyo%20hotel/UYO_HOTEL_7_bmkkti.jpg"   alt="Uyo Hotel">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230652/uyo%20hotel/UYO_HOTEL_7_bmkkti.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->                                      
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230652/uyo%20hotel/UYO_HOTEL_hunitl.jpg"   alt="Uyo Hotel">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230652/uyo%20hotel/UYO_HOTEL_hunitl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230652/uyo%20hotel/UYO_HOTEL_hunitl.jpg"   alt="Uyo Hotel">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230652/uyo%20hotel/UYO_HOTEL_hunitl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->                                      
                                     <!-- swiper-slide-->  

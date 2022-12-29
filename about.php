@@ -1,10 +1,8 @@
 <!DOCTYPE HTML>
 <html lang="en">
-    
 <!-- Mirrored from Andrezini.kwst.net/site/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 08:53:49 GMT -->
     <?php include("partials/head.php") ?>
     <body>
-       
         <!--  main start  -->
         <div id="main">
             <!--  header main-header  -->
@@ -20,7 +18,6 @@
                 </div>
             </div>
             <!--  hero-wrap-social end  -->		
-            	
             <!-- wrapper -->
             <div id="wrapper">
                 <!-- content-holder -->
@@ -46,21 +43,13 @@
                         </section>
                         <div class="bg dec-bg right-pos-dec"  data-bg="images/bg/dec2.jpg"></div>
                     </div>
-                    <!--sec_fw  end -->
-                    <!--sec_fw  end -->
-                    <!-- column-wrap --> 
-                    <!-- <div class="column-wrap  scroll_sec" id="sec1">
-                        
-                    </div> -->
-                    <!--column-wrap end --> 
-                   
+                    <!--sec_fw  end -->                 
                     <!--sec_fw_wrap -->
                     <div class="sec_fw_wrap fl-wrap">
                         <!--sec_fw   -->
                         <div class="sec_fw scroll_sec fl-wrap" id="sec2">
                             <div class="serv-carousel_wrap dark-bg fl-wrap">
                                 <div class="serv-carousel_title color-bg">
-                                    
                                     <div class="sct_dec"><span></span></div>
                                     <!-- <span class="serv_carousel_numder"><img src="images/logo1.png" alt=""></span> -->
                                     <div class="serv-carousel_title_wrap">
@@ -164,9 +153,7 @@
                             <div class="testimonilas-wrap testimonilas-wrap-rev fl-wrap">
                                 <div class="testi-column_title color-bg">
                                     <!-- <span class="serv_carousel_numder">.04</span> -->
-                                    
                                     <div class="serv-carousel_title_wrap tct_it">
-                                        
                                         <h5>Strengths</h5>
                                     </div>
                                 </div>
@@ -221,7 +208,6 @@
                                             reputation into that of an international emblem of 
                                             architectural excellence and flawless project delivery
                                             that will rival the best that world has to offer. 
-
                                         </p>
                                         <div class="sec-title_dec"></div>
                                         <!-- <div class="section-title_num">.05</div> -->
@@ -294,7 +280,6 @@
                                     <p>Architecture is the art and science of designing and constructing buildings and other structures. It involves creating plans and drawings, choosing materials, and overseeing the construction process to ensure that the finished structure is functional, safe, and aesthetically pleasing.</p>
                                     <div class="sec-title_dec"></div>
                                 </div>
-                                	
                             </div>
                             <!-- serv-details end -->							
                             <!-- serv-details --> 
@@ -311,7 +296,6 @@
                                 <div class="section-title fl-wrap">
                                     <h2>Construction and Renovation</h2>
                                     <p>Construction is the process of building or assembling a structure, such as a building, bridge, or road. It involves a variety of tasks, including site preparation, foundation work, framing, electrical and plumbing installation, and finish work.
-
                                         Renovation is the process of improving or updating a structure that already exists. This can involve a variety of tasks, such as repairing or replacing damaged or outdated features, adding new features or amenities, or reconfiguring the layout of the space. </p>
                                     <div class="sec-title_dec"></div>
                                 </div>		
@@ -323,8 +307,7 @@
                     <!--services-modal-wrap end -->
                     <!-- side-box --> 
                     <div class="side-box">
-                        <div class="page-scroll-nav_wrap">
-                            						
+                        <div class="page-scroll-nav_wrap">						
                         </div>
                         <div class="single-page_scrl">
                             <div class="mousey">

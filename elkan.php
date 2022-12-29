@@ -46,50 +46,50 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214740/ELKAN%20TERRANCE%203D%20VISUALS/13_qw3pxq.jpg"   alt="Elkan 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214740/ELKAN%20TERRANCE%203D%20VISUALS/13_qw3pxq.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214740/ELKAN%20TERRANCE%203D%20VISUALS/13_qw3pxq.jpg"   alt="Elkan 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214740/ELKAN%20TERRANCE%203D%20VISUALS/13_qw3pxq.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/14_zr1iac.jpg"   alt="Elkan 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/14_zr1iac.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/14_zr1iac.jpg"   alt="Elkan 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/14_zr1iac.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/2_w5oot5.jpg"   alt="Elkan 3">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/2_w5oot5.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/2_w5oot5.jpg"   alt="Elkan 3">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/2_w5oot5.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/6_rmuwm7.jpg"   alt="Elkan 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/6_rmuwm7.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/6_rmuwm7.jpg"   alt="Elkan 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/6_rmuwm7.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/7_ceenqj.jpg"   alt="Elkan 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/7_ceenqj.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/7_ceenqj.jpg"   alt="Elkan 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/7_ceenqj.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/10_xis3wg.jpg"   alt="Elkan 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/10_xis3wg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/10_xis3wg.jpg"   alt="Elkan 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672214739/ELKAN%20TERRANCE%203D%20VISUALS/10_xis3wg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672088666/ELKAN%20TERRANCE%203D%20VISUALS/8_cjicl2.jpg"   alt="Elkan 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672088666/ELKAN%20TERRANCE%203D%20VISUALS/8_cjicl2.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672088666/ELKAN%20TERRANCE%203D%20VISUALS/8_cjicl2.jpg"   alt="Elkan 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672088666/ELKAN%20TERRANCE%203D%20VISUALS/8_cjicl2.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672088617/ELKAN%20TERRANCE%203D%20VISUALS/5_a5wgwz.jpg"   alt="Elkan 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672088617/ELKAN%20TERRANCE%203D%20VISUALS/5_a5wgwz.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672088617/ELKAN%20TERRANCE%203D%20VISUALS/5_a5wgwz.jpg"   alt="Elkan 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672088617/ELKAN%20TERRANCE%203D%20VISUALS/5_a5wgwz.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

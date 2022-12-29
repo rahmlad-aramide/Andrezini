@@ -73,26 +73,26 @@
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230435/torch%20mark/TORCH_MARK_7_nt9fyk.jpg"   alt="Torch Park">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230435/torch%20mark/TORCH_MARK_7_nt9fyk.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230435/torch%20mark/TORCH_MARK_7_nt9fyk.jpg"   alt="Torch Park">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230435/torch%20mark/TORCH_MARK_7_nt9fyk.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230433/torch%20mark/TORCH_MARK_3_z7lwnb.jpg"   alt="Torch Park">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230433/torch%20mark/TORCH_MARK_3_z7lwnb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230433/torch%20mark/TORCH_MARK_3_z7lwnb.jpg"   alt="Torch Park">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230433/torch%20mark/TORCH_MARK_3_z7lwnb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230432/torch%20mark/TORCH_MARK_4_uyq3bo.jpg"   alt="Torch Park">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230432/torch%20mark/TORCH_MARK_4_uyq3bo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230432/torch%20mark/TORCH_MARK_4_uyq3bo.jpg"   alt="Torch Park">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230432/torch%20mark/TORCH_MARK_4_uyq3bo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230431/torch%20mark/TORCH_MARK_lwhgee.jpg"   alt="Torch Park">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230431/torch%20mark/TORCH_MARK_lwhgee.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230431/torch%20mark/TORCH_MARK_lwhgee.jpg"   alt="Torch Park">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230431/torch%20mark/TORCH_MARK_lwhgee.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

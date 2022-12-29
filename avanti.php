@@ -40,7 +40,6 @@
                                 <div class="hs_init"></div>
                             </div>
                         </div>
-
                     </div>
                     <!-- fw-carousel  -->
                     <div class="fw-carousel  thumb-contr fs-gallery-wrap fl-wrap full-height lightgallery"
@@ -49,50 +48,50 @@
                             <div class="swiper-wrapper">
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221974/avanti%20homes/AVANTI_HOMES_POOL_csciaz.jpg" alt="Avanti 1">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221974/avanti%20homes/AVANTI_HOMES_POOL_csciaz.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_POOL_csciaz.jpg" alt="Avanti 1">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_POOL_csciaz.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221974/avanti%20homes/AVANTI_HOMES_10_gbzdji.jpg" alt="Avanti 2">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221974/avanti%20homes/AVANTI_HOMES_10_gbzdji.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_10_gbzdji.jpg" alt="Avanti 2">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_10_gbzdji.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221972/avanti%20homes/AVANTI_HOMES_6_glwrwh.jpg" alt="Avanti 3">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221972/avanti%20homes/AVANTI_HOMES_6_glwrwh.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_6_glwrwh.jpg" alt="Avanti 3">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_6_glwrwh.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221972/avanti%20homes/AVANTI_HOMES_5_kwuiv2.jpg" alt="Avanti 4">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221972/avanti%20homes/AVANTI_HOMES_5_kwuiv2.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_5_kwuiv2.jpg" alt="Avanti 4">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_5_kwuiv2.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221971/avanti%20homes/AVANTI_HOMES_dcniij.jpg" alt="Avanti 5">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221971/avanti%20homes/AVANTI_HOMES_dcniij.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_dcniij.jpg" alt="Avanti 5">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_dcniij.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221971/avanti%20homes/AVANTI_HOMES_2_gom0e1.jpg" alt="Avanti 6">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221971/avanti%20homes/AVANTI_HOMES_2_gom0e1.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_2_gom0e1.jpg" alt="Avanti 6">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_2_gom0e1.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085375/avanti%20homes/AVANTI_HOMES_1_tceyal.jpg" alt="Avanti 7">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085375/avanti%20homes/AVANTI_HOMES_1_tceyal.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085375/avanti%20homes/AVANTI_HOMES_1_tceyal.jpg" alt="Avanti 7">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085375/avanti%20homes/AVANTI_HOMES_1_tceyal.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->

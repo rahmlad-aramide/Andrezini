@@ -81,26 +81,26 @@
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_6_ozrn2t.jpg"   alt="Magodo Residential 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_6_ozrn2t.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_6_ozrn2t.jpg"   alt="Magodo Residential 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_6_ozrn2t.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_3_ro86wv.jpg"   alt="Magodo Residential 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_3_ro86wv.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_3_ro86wv.jpg"   alt="Magodo Residential 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_3_ro86wv.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODP_RESIDENTIALFurniture_1_s4sgtf.jpg"   alt="Magodo Residential 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODP_RESIDENTIALFurniture_1_s4sgtf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODP_RESIDENTIALFurniture_1_s4sgtf.jpg"   alt="Magodo Residential 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODP_RESIDENTIALFurniture_1_s4sgtf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_2_tttpau.jpg"   alt="Magodo Residential 10">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_2_tttpau.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_2_tttpau.jpg"   alt="Magodo Residential 10">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_2_tttpau.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

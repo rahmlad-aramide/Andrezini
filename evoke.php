@@ -46,56 +46,56 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090475/evoke/EVOKE_NIGHT_CLUB11_k9shxx.jpg"   alt="Evoke 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090475/evoke/EVOKE_NIGHT_CLUB11_k9shxx.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090475/evoke/EVOKE_NIGHT_CLUB11_k9shxx.jpg"   alt="Evoke 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090475/evoke/EVOKE_NIGHT_CLUB11_k9shxx.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090475/evoke/EVOKE_NIGHT_CLUB_1_kz19xm.jpg"   alt="Evoke 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090475/evoke/EVOKE_NIGHT_CLUB_1_kz19xm.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090475/evoke/EVOKE_NIGHT_CLUB_1_kz19xm.jpg"   alt="Evoke 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090475/evoke/EVOKE_NIGHT_CLUB_1_kz19xm.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090475/evoke/EVOKE_NIGHT_CLUB_10_cpcr5n.jpg"   alt="Evoke 3">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090475/evoke/EVOKE_NIGHT_CLUB_10_cpcr5n.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090475/evoke/EVOKE_NIGHT_CLUB_10_cpcr5n.jpg"   alt="Evoke 3">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090475/evoke/EVOKE_NIGHT_CLUB_10_cpcr5n.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090471/evoke/EVOKE_NIGHT_CLUB_12_jnnlzb.jpg"   alt="Evoke 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090471/evoke/EVOKE_NIGHT_CLUB_12_jnnlzb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090471/evoke/EVOKE_NIGHT_CLUB_12_jnnlzb.jpg"   alt="Evoke 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090471/evoke/EVOKE_NIGHT_CLUB_12_jnnlzb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090470/evoke/EVOKE_NIGHT_CLUB_9_luxevg.jpg"   alt="Evoke 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090470/evoke/EVOKE_NIGHT_CLUB_9_luxevg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090470/evoke/EVOKE_NIGHT_CLUB_9_luxevg.jpg"   alt="Evoke 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090470/evoke/EVOKE_NIGHT_CLUB_9_luxevg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090470/evoke/EVOKE_NIGHT_CLUB_3_cycphf.jpg"   alt="Evoke 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090470/evoke/EVOKE_NIGHT_CLUB_3_cycphf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090470/evoke/EVOKE_NIGHT_CLUB_3_cycphf.jpg"   alt="Evoke 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090470/evoke/EVOKE_NIGHT_CLUB_3_cycphf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090469/evoke/EVOKE_NIGNT_CLUB_2_c1hmif.jpg"   alt="Evoke 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090469/evoke/EVOKE_NIGNT_CLUB_2_c1hmif.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090469/evoke/EVOKE_NIGNT_CLUB_2_c1hmif.jpg"   alt="Evoke 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090469/evoke/EVOKE_NIGNT_CLUB_2_c1hmif.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090468/evoke/EVOKE_NIGHT_CLUB_8_xbzfoo.jpg"   alt="Evoke 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090468/evoke/EVOKE_NIGHT_CLUB_8_xbzfoo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090468/evoke/EVOKE_NIGHT_CLUB_8_xbzfoo.jpg"   alt="Evoke 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090468/evoke/EVOKE_NIGHT_CLUB_8_xbzfoo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090468/evoke/EVOKE_NIGHT_CLUB_4_ybrwps.jpg"   alt="Evoke 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090468/evoke/EVOKE_NIGHT_CLUB_4_ybrwps.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090468/evoke/EVOKE_NIGHT_CLUB_4_ybrwps.jpg"   alt="Evoke 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672090468/evoke/EVOKE_NIGHT_CLUB_4_ybrwps.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  

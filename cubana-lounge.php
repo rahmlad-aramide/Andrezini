@@ -46,104 +46,104 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana/CUBANA_PABLOFURNITURE_ibczey.jpg"   alt="cubana-lounge 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana/CUBANA_PABLOFURNITURE_ibczey.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana/CUBANA_PABLOFURNITURE_ibczey.jpg"   alt="cubana-lounge 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana/CUBANA_PABLOFURNITURE_ibczey.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana/CUBANA_PABLO_3D_VISUALS_2_t3gnyy.jpg"   alt="cubana-lounge 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana/CUBANA_PABLO_3D_VISUALS_2_t3gnyy.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana/CUBANA_PABLO_3D_VISUALS_2_t3gnyy.jpg"   alt="cubana-lounge 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana/CUBANA_PABLO_3D_VISUALS_2_t3gnyy.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana/CUBANA_4_PABLO_3D_VISUALS_r4zyvd.jpg"   alt="cubana-lounge 3">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana/CUBANA_4_PABLO_3D_VISUALS_r4zyvd.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana/CUBANA_4_PABLO_3D_VISUALS_r4zyvd.jpg"   alt="cubana-lounge 3">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana/CUBANA_4_PABLO_3D_VISUALS_r4zyvd.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076600/cubana/CUBANA_vs2dmi.jpg"   alt="cubana-lounge 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076600/cubana/CUBANA_vs2dmi.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076600/cubana/CUBANA_vs2dmi.jpg"   alt="cubana-lounge 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076600/cubana/CUBANA_vs2dmi.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076593/cubana/CUBANA_PABLO_Furniture_consultancy_2_gvsdok.jpg"   alt="cubana-lounge 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076593/cubana/CUBANA_PABLO_Furniture_consultancy_2_gvsdok.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076593/cubana/CUBANA_PABLO_Furniture_consultancy_2_gvsdok.jpg"   alt="cubana-lounge 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076593/cubana/CUBANA_PABLO_Furniture_consultancy_2_gvsdok.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076589/cubana/PABLO_wradql.jpg"   alt="cubana-lounge 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076589/cubana/PABLO_wradql.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076589/cubana/PABLO_wradql.jpg"   alt="cubana-lounge 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076589/cubana/PABLO_wradql.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076589/cubana/Interior_design_Management_PABLO_ehdclq.jpg"   alt="cubana-lounge 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076589/cubana/Interior_design_Management_PABLO_ehdclq.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076589/cubana/Interior_design_Management_PABLO_ehdclq.jpg"   alt="cubana-lounge 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076589/cubana/Interior_design_Management_PABLO_ehdclq.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076588/cubana/CUBANA_PABLO_3_D_VISUALS_euepvt.jpg"   alt="cubana-lounge 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076588/cubana/CUBANA_PABLO_3_D_VISUALS_euepvt.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076588/cubana/CUBANA_PABLO_3_D_VISUALS_euepvt.jpg"   alt="cubana-lounge 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076588/cubana/CUBANA_PABLO_3_D_VISUALS_euepvt.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076588/cubana/CUBANA_PABLOInterior_design_mgt_1_wpe4on.jpg"   alt="cubana-lounge 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076588/cubana/CUBANA_PABLOInterior_design_mgt_1_wpe4on.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076588/cubana/CUBANA_PABLOInterior_design_mgt_1_wpe4on.jpg"   alt="cubana-lounge 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076588/cubana/CUBANA_PABLOInterior_design_mgt_1_wpe4on.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076588/cubana/CUBANA_PABLO_Interior_design_mgt_2_bqdjs4.jpg"   alt="cubana-lounge 10">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076588/cubana/CUBANA_PABLO_Interior_design_mgt_2_bqdjs4.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076588/cubana/CUBANA_PABLO_Interior_design_mgt_2_bqdjs4.jpg"   alt="cubana-lounge 10">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076588/cubana/CUBANA_PABLO_Interior_design_mgt_2_bqdjs4.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076587/cubana/Furniture_consultancy_PABLO_cjkjjg.jpg"   alt="cubana-lounge 11">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076587/cubana/Furniture_consultancy_PABLO_cjkjjg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076587/cubana/Furniture_consultancy_PABLO_cjkjjg.jpg"   alt="cubana-lounge 11">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076587/cubana/Furniture_consultancy_PABLO_cjkjjg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076586/cubana/PABLO_4_cn9xrg.jpg"   alt="cubana-lounge 12">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076586/cubana/PABLO_4_cn9xrg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076586/cubana/PABLO_4_cn9xrg.jpg"   alt="cubana-lounge 12">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076586/cubana/PABLO_4_cn9xrg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076586/cubana/CUBANA_PABLO_Furniture_consultancy_l85qyu.jpg"   alt="cubana-lounge 13">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076586/cubana/CUBANA_PABLO_Furniture_consultancy_l85qyu.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076586/cubana/CUBANA_PABLO_Furniture_consultancy_l85qyu.jpg"   alt="cubana-lounge 13">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076586/cubana/CUBANA_PABLO_Furniture_consultancy_l85qyu.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076585/cubana/CUBANA_PABLO_Interior_design_mgt_3_owmmup.jpg"   alt="cubana-lounge 14">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076585/cubana/CUBANA_PABLO_Interior_design_mgt_3_owmmup.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076585/cubana/CUBANA_PABLO_Interior_design_mgt_3_owmmup.jpg"   alt="cubana-lounge 14">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076585/cubana/CUBANA_PABLO_Interior_design_mgt_3_owmmup.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076584/cubana/CUBANA_PABLO_Furniture_consultancy_1_gc67d1.jpg"   alt="cubana-lounge 15">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076584/cubana/CUBANA_PABLO_Furniture_consultancy_1_gc67d1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076584/cubana/CUBANA_PABLO_Furniture_consultancy_1_gc67d1.jpg"   alt="cubana-lounge 15">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076584/cubana/CUBANA_PABLO_Furniture_consultancy_1_gc67d1.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076583/cubana/CUBANA_PABLO_Interior_design_mgt_qha9lh.jpg"   alt="cubana-lounge 16">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076583/cubana/CUBANA_PABLO_Interior_design_mgt_qha9lh.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076583/cubana/CUBANA_PABLO_Interior_design_mgt_qha9lh.jpg"   alt="cubana-lounge 16">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076583/cubana/CUBANA_PABLO_Interior_design_mgt_qha9lh.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076581/cubana/CUBANA_PABLOINTERIOR_DESIGN_tnrqjo.jpg"   alt="cubana-lounge 17">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076581/cubana/CUBANA_PABLOINTERIOR_DESIGN_tnrqjo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076581/cubana/CUBANA_PABLOINTERIOR_DESIGN_tnrqjo.jpg"   alt="cubana-lounge 17">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076581/cubana/CUBANA_PABLOINTERIOR_DESIGN_tnrqjo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

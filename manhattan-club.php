@@ -75,26 +75,26 @@
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225090/Manhattan/manhattan_stip_club_ajah_14_ysg3r0.jpg"   alt="Manhattan 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225090/Manhattan/manhattan_stip_club_ajah_14_ysg3r0.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225090/Manhattan/manhattan_stip_club_ajah_14_ysg3r0.jpg"   alt="Manhattan 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225090/Manhattan/manhattan_stip_club_ajah_14_ysg3r0.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225089/Manhattan/Manhattan_strip_club_ajah_16_fa3xtb.jpg"   alt="Manhattan 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225089/Manhattan/Manhattan_strip_club_ajah_16_fa3xtb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225089/Manhattan/Manhattan_strip_club_ajah_16_fa3xtb.jpg"   alt="Manhattan 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225089/Manhattan/Manhattan_strip_club_ajah_16_fa3xtb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225089/Manhattan/Manhattan_strip_club_ajah_4_zr7jro.jpg"   alt="Manhattan 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225089/Manhattan/Manhattan_strip_club_ajah_4_zr7jro.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225089/Manhattan/Manhattan_strip_club_ajah_4_zr7jro.jpg"   alt="Manhattan 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225089/Manhattan/Manhattan_strip_club_ajah_4_zr7jro.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225089/Manhattan/Manhattan_strip_club_ajah_5_yfslzy.jpg"   alt="Manhattan 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225089/Manhattan/Manhattan_strip_club_ajah_5_yfslzy.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225089/Manhattan/Manhattan_strip_club_ajah_5_yfslzy.jpg"   alt="Manhattan 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225089/Manhattan/Manhattan_strip_club_ajah_5_yfslzy.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

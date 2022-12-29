@@ -46,56 +46,56 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222202/Freshly%20pound/FRESHLY_POUND_5_uzb48o.jpg"   alt="Freshly pound 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222202/Freshly%20pound/FRESHLY_POUND_5_uzb48o.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222202/Freshly%20pound/FRESHLY_POUND_5_uzb48o.jpg"   alt="Freshly pound 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222202/Freshly%20pound/FRESHLY_POUND_5_uzb48o.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222202/Freshly%20pound/FRESHLY_POUND_10_nkfjaa.jpg"   alt="Freshly pound 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222202/Freshly%20pound/FRESHLY_POUND_10_nkfjaa.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222202/Freshly%20pound/FRESHLY_POUND_10_nkfjaa.jpg"   alt="Freshly pound 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222202/Freshly%20pound/FRESHLY_POUND_10_nkfjaa.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222201/Freshly%20pound/FRESHLY_POUND_11_ivasrm.jpg"   alt="Freshly pound 3">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222201/Freshly%20pound/FRESHLY_POUND_11_ivasrm.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222201/Freshly%20pound/FRESHLY_POUND_11_ivasrm.jpg"   alt="Freshly pound 3">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222201/Freshly%20pound/FRESHLY_POUND_11_ivasrm.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222200/Freshly%20pound/FRESHLY_POUND_2_EXTERIOR_DESIGN_tkvbim.jpg"   alt="Freshly pound 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222200/Freshly%20pound/FRESHLY_POUND_2_EXTERIOR_DESIGN_tkvbim.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222200/Freshly%20pound/FRESHLY_POUND_2_EXTERIOR_DESIGN_tkvbim.jpg"   alt="Freshly pound 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222200/Freshly%20pound/FRESHLY_POUND_2_EXTERIOR_DESIGN_tkvbim.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222200/Freshly%20pound/FRESHLY_POUND_8_ljw5j6.jpg"   alt="Freshly pound 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222200/Freshly%20pound/FRESHLY_POUND_8_ljw5j6.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222200/Freshly%20pound/FRESHLY_POUND_8_ljw5j6.jpg"   alt="Freshly pound 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222200/Freshly%20pound/FRESHLY_POUND_8_ljw5j6.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222199/Freshly%20pound/FRESHLY_POUND_12_uohk2o.jpg"   alt="Freshly pound 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222199/Freshly%20pound/FRESHLY_POUND_12_uohk2o.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222199/Freshly%20pound/FRESHLY_POUND_12_uohk2o.jpg"   alt="Freshly pound 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222199/Freshly%20pound/FRESHLY_POUND_12_uohk2o.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222197/Freshly%20pound/FRESHLY_POUND_6_INTERIOR_DESIGN_othkzl.jpg"   alt="Freshly pound 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222197/Freshly%20pound/FRESHLY_POUND_6_INTERIOR_DESIGN_othkzl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222197/Freshly%20pound/FRESHLY_POUND_6_INTERIOR_DESIGN_othkzl.jpg"   alt="Freshly pound 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222197/Freshly%20pound/FRESHLY_POUND_6_INTERIOR_DESIGN_othkzl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222194/Freshly%20pound/FRESHLY_POUND_16_advtgi.jpg"   alt="Freshly pound 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222194/Freshly%20pound/FRESHLY_POUND_16_advtgi.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222194/Freshly%20pound/FRESHLY_POUND_16_advtgi.jpg"   alt="Freshly pound 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222194/Freshly%20pound/FRESHLY_POUND_16_advtgi.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222191/Freshly%20pound/FRESHLY_POUND_15_zaox4k.jpg"   alt="Freshly pound 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222191/Freshly%20pound/FRESHLY_POUND_15_zaox4k.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222191/Freshly%20pound/FRESHLY_POUND_15_zaox4k.jpg"   alt="Freshly pound 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672222191/Freshly%20pound/FRESHLY_POUND_15_zaox4k.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a> 
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

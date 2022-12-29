@@ -46,14 +46,14 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223643/Imax%20filmhouse/IMAX_FILM_HOUSE_3_w1ebbz.jpg" alt="Imax 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223643/Imax%20filmhouse/IMAX_FILM_HOUSE_3_w1ebbz.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223643/Imax%20filmhouse/IMAX_FILM_HOUSE_3_w1ebbz.jpg" alt="Imax 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223643/Imax%20filmhouse/IMAX_FILM_HOUSE_3_w1ebbz.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223642/Imax%20filmhouse/IMAX_FILM_HOUSE_2_z02nhb.jpg" alt="Imax 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223642/Imax%20filmhouse/IMAX_FILM_HOUSE_2_z02nhb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223642/Imax%20filmhouse/IMAX_FILM_HOUSE_2_z02nhb.jpg" alt="Imax 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223642/Imax%20filmhouse/IMAX_FILM_HOUSE_2_z02nhb.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  

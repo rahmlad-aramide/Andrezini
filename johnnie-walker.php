@@ -58,43 +58,43 @@
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
                                         <img  src="images/portfolio/JOHNNIE/JOHNNIE WALKER 4.jpg" alt="JJW 3">
-                                        <a href="images/portfolio/JOHNNIE/JOHNNIE WALKER 4.jpg.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <a href="images/portfolio/JOHNNIE/JOHNNIE WALKER 4.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_1_3D_VISUALS_ivcudu.jpg" alt="JJW 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_1_3D_VISUALS_ivcudu.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_1_3D_VISUALS_ivcudu.jpg" alt="JJW 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_1_3D_VISUALS_ivcudu.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_5_3D_VISUALS_qp7ot2.jpg" alt="JJW 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_5_3D_VISUALS_qp7ot2.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_5_3D_VISUALS_qp7ot2.jpg" alt="JJW 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_5_3D_VISUALS_qp7ot2.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_6_3D_VISUALS_tuhbar.jpg" alt="JJW 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_6_3D_VISUALS_tuhbar.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_6_3D_VISUALS_tuhbar.jpg" alt="JJW 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_6_3D_VISUALS_tuhbar.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_4_3D_VISUALS_gtz7l9.jpg" alt="JJW 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_4_3D_VISUALS_gtz7l9.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_4_3D_VISUALS_gtz7l9.jpg" alt="JJW 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_4_3D_VISUALS_gtz7l9.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_3_3D_VISUALS_v5cnju.jpg" alt="JJW 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_3_3D_VISUALS_v5cnju.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_3_3D_VISUALS_v5cnju.jpg" alt="JJW 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_3_3D_VISUALS_v5cnju.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_2_3D_VISUALS_qoh0yd.jpg" alt="JJW 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_2_3D_VISUALS_qoh0yd.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_2_3D_VISUALS_qoh0yd.jpg" alt="JJW 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672223999/Johnnie%20Walker/JJW_2_3D_VISUALS_qoh0yd.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  

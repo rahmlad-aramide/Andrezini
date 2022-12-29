@@ -46,80 +46,80 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221464/farmcity/FURNITURE_CONSULTANCY_2_ubc7jt.jpg"   alt="Farm city 1">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221464/farmcity/FURNITURE_CONSULTANCY_2_ubc7jt.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221464/farmcity/FURNITURE_CONSULTANCY_2_ubc7jt.jpg"   alt="Farm city 1">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221464/farmcity/FURNITURE_CONSULTANCY_2_ubc7jt.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221461/farmcity/FARMCITY_FURNITURE_CONSULTANCY_1_ygg8qf.jpg"   alt="Farm city 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221461/farmcity/FARMCITY_FURNITURE_CONSULTANCY_1_ygg8qf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221461/farmcity/FARMCITY_FURNITURE_CONSULTANCY_1_ygg8qf.jpg"   alt="Farm city 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221461/farmcity/FARMCITY_FURNITURE_CONSULTANCY_1_ygg8qf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_MGT_ssxlrj.jpg"   alt="Farm city 3">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_MGT_ssxlrj.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/INTERIOR_MGT_ssxlrj.jpg"   alt="Farm city 3">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/INTERIOR_MGT_ssxlrj.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_MGT_2_vq2h29.jpg"   alt="Farm city 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_MGT_2_vq2h29.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/INTERIOR_MGT_2_vq2h29.jpg"   alt="Farm city 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/INTERIOR_MGT_2_vq2h29.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/FURNITURE_CONSULTANCY_3_q5fmlp.jpg"   alt="Farm city 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/FURNITURE_CONSULTANCY_3_q5fmlp.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/FURNITURE_CONSULTANCY_3_q5fmlp.jpg"   alt="Farm city 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/FURNITURE_CONSULTANCY_3_q5fmlp.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_ELECTRICALS_LIGHTINGS_2_lqag2p.jpg"   alt="Farm city 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_ELECTRICALS_LIGHTINGS_2_lqag2p.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/INTERIOR_ELECTRICALS_LIGHTINGS_2_lqag2p.jpg"   alt="Farm city 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221457/farmcity/INTERIOR_ELECTRICALS_LIGHTINGS_2_lqag2p.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221456/farmcity/INTERIOR_ELECTRICALS_LIGHTING_mztkpq.jpg"   alt="Farm city 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221456/farmcity/INTERIOR_ELECTRICALS_LIGHTING_mztkpq.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221456/farmcity/INTERIOR_ELECTRICALS_LIGHTING_mztkpq.jpg"   alt="Farm city 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221456/farmcity/INTERIOR_ELECTRICALS_LIGHTING_mztkpq.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221451/farmcity/FARMCITY_OGUDU_3_g7plb8.jpg"   alt="Farm city 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221451/farmcity/FARMCITY_OGUDU_3_g7plb8.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221451/farmcity/FARMCITY_OGUDU_3_g7plb8.jpg"   alt="Farm city 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221451/farmcity/FARMCITY_OGUDU_3_g7plb8.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221450/farmcity/FARMCITY_OGUDU_clqps9.jpg"   alt="Farm city 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221450/farmcity/FARMCITY_OGUDU_clqps9.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221450/farmcity/FARMCITY_OGUDU_clqps9.jpg"   alt="Farm city 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221450/farmcity/FARMCITY_OGUDU_clqps9.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221449/farmcity/FARMCITY_OGUDU_6_wcqa9s.jpg"   alt="Farm city 10">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221449/farmcity/FARMCITY_OGUDU_6_wcqa9s.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221449/farmcity/FARMCITY_OGUDU_6_wcqa9s.jpg"   alt="Farm city 10">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221449/farmcity/FARMCITY_OGUDU_6_wcqa9s.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221448/farmcity/FARMCITY_OGUDU_5_ywxs3j.jpg"   alt="Farm city 11">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221448/farmcity/FARMCITY_OGUDU_5_ywxs3j.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221448/farmcity/FARMCITY_OGUDU_5_ywxs3j.jpg"   alt="Farm city 11">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221448/farmcity/FARMCITY_OGUDU_5_ywxs3j.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221448/farmcity/FARMCITY_OGUDU_4_dw1dly.jpg"   alt="Farm city 12">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221448/farmcity/FARMCITY_OGUDU_4_dw1dly.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221448/farmcity/FARMCITY_OGUDU_4_dw1dly.jpg"   alt="Farm city 12">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221448/farmcity/FARMCITY_OGUDU_4_dw1dly.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221447/farmcity/FARMCITY_OGUDU_2_limhxs.jpg"   alt="Farm city 13">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221447/farmcity/FARMCITY_OGUDU_2_limhxs.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221447/farmcity/FARMCITY_OGUDU_2_limhxs.jpg"   alt="Farm city 13">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221447/farmcity/FARMCITY_OGUDU_2_limhxs.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

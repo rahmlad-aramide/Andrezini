@@ -74,22 +74,22 @@
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230213/Prime%20water/PWV_FURNITURE_CONSULTANCY_p9a7pl.jpg"   alt="Primewater">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230213/Prime%20water/PWV_FURNITURE_CONSULTANCY_p9a7pl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230213/Prime%20water/PWV_FURNITURE_CONSULTANCY_p9a7pl.jpg"   alt="Primewater">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230213/Prime%20water/PWV_FURNITURE_CONSULTANCY_p9a7pl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                         
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230209/Prime%20water/PWV_INTERIOR_DESIGN_MGT_3_ayeilo.jpg"   alt="Primewater">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230209/Prime%20water/PWV_INTERIOR_DESIGN_MGT_3_ayeilo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230209/Prime%20water/PWV_INTERIOR_DESIGN_MGT_3_ayeilo.jpg"   alt="Primewater">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230209/Prime%20water/PWV_INTERIOR_DESIGN_MGT_3_ayeilo.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                         
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230184/Prime%20water/PWV_LIGHTING_1_p0nvmj.jpg"   alt="Primewater">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672230184/Prime%20water/PWV_LIGHTING_1_p0nvmj.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230184/Prime%20water/PWV_LIGHTING_1_p0nvmj.jpg"   alt="Primewater">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230184/Prime%20water/PWV_LIGHTING_1_p0nvmj.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                         
                                     </div>
                                     <!-- swiper-slide end--> 

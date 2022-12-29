@@ -46,98 +46,98 @@
                                 <div class="swiper-wrapper">
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana%20grind/CUBANA_GRIND_3D_rk8gv0.jpg" alt="cubana-montana">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana%20grind/CUBANA_GRIND_3D_rk8gv0.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana%20grind/CUBANA_GRIND_3D_rk8gv0.jpg" alt="cubana-montana">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana%20grind/CUBANA_GRIND_3D_rk8gv0.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana%20grind/CUBANA_GRIND_2_3D_VISUALS_aofxnw.jpg" alt="cubana-montana 2">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana%20grind/CUBANA_GRIND_2_3D_VISUALS_aofxnw.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana%20grind/CUBANA_GRIND_2_3D_VISUALS_aofxnw.jpg" alt="cubana-montana 2">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana%20grind/CUBANA_GRIND_2_3D_VISUALS_aofxnw.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana%20grind/CUBANA_GRIND_3D_VISUALS_z0vw53.jpg" alt="cubana-montana 3">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672213469/cubana%20grind/CUBANA_GRIND_3D_VISUALS_z0vw53.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana%20grind/CUBANA_GRIND_3D_VISUALS_z0vw53.jpg" alt="cubana-montana 3">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672213469/cubana%20grind/CUBANA_GRIND_3D_VISUALS_z0vw53.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076597/cubana%20grind/CUBANA_GRINDInterior_design_mgt_b9ac3e.jpg" alt="cubana-montana 4">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076597/cubana%20grind/CUBANA_GRINDInterior_design_mgt_b9ac3e.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076597/cubana%20grind/CUBANA_GRINDInterior_design_mgt_b9ac3e.jpg" alt="cubana-montana 4">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076597/cubana%20grind/CUBANA_GRINDInterior_design_mgt_b9ac3e.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076595/cubana%20grind/CUBANA_GRIND_interior_electrical_lighting_azfvlf.jpg" alt="cubana-montana 5">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076595/cubana%20grind/CUBANA_GRIND_interior_electrical_lighting_azfvlf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076595/cubana%20grind/CUBANA_GRIND_interior_electrical_lighting_azfvlf.jpg" alt="cubana-montana 5">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076595/cubana%20grind/CUBANA_GRIND_interior_electrical_lighting_azfvlf.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076594/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_1_cvlwhl.jpg" alt="cubana-montana 6">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076594/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_1_cvlwhl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076594/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_1_cvlwhl.jpg" alt="cubana-montana 6">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076594/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_1_cvlwhl.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076593/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_2_vmosdx.jpg" alt="cubana-montana 7">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076593/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_2_vmosdx.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076593/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_2_vmosdx.jpg" alt="cubana-montana 7">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076593/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_2_vmosdx.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076592/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_2_gz06ba.jpg" alt="cubana-montana 8">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076592/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_2_gz06ba.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076592/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_2_gz06ba.jpg" alt="cubana-montana 8">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076592/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_2_gz06ba.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076591/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_3_svhe9q.jpg" alt="cubana-montana 9">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076591/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_3_svhe9q.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076591/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_3_svhe9q.jpg" alt="cubana-montana 9">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076591/cubana%20grind/CUBANA_GRIND_interior_and_exterior_proj_3_svhe9q.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076591/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_4_jceydx.jpg" alt="cubana-montana 10">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076591/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_4_jceydx.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076591/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_4_jceydx.jpg" alt="cubana-montana 10">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076591/cubana%20grind/CUBANA_GRIND_Furniture_consultancy_4_jceydx.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-10_dygh4z.jpg" alt="cubana-montana 11">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-10_dygh4z.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-10_dygh4z.jpg" alt="cubana-montana 11">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-10_dygh4z.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-18_ytpz2q.jpg" alt="cubana-montana 12">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-18_ytpz2q.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-18_ytpz2q.jpg" alt="cubana-montana 12">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076583/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-18_ytpz2q.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-11_qrdy6v.jpg" alt="cubana-montana 13">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-11_qrdy6v.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-11_qrdy6v.jpg" alt="cubana-montana 13">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-11_qrdy6v.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->  
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-9_kr2j9p.jpg" alt="cubana-montana 14">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-9_kr2j9p.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-9_kr2j9p.jpg" alt="cubana-montana 14">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-9_kr2j9p.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-12_gyols7.jpg" alt="cubana-montana 15">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-12_gyols7.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-12_gyols7.jpg" alt="cubana-montana 15">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076571/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-12_gyols7.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end-->
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076570/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-2_e7dvsc.jpg" alt="cubana-montana 16">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076570/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-2_e7dvsc.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076570/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-2_e7dvsc.jpg" alt="cubana-montana 16">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672076570/cubana%20grind/WhatsApp_Image_2018-03-01_at_10.33.22_AM-2_e7dvsc.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>    
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  

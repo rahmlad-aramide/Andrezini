@@ -81,20 +81,20 @@
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225583/Mouka%20foam/MOUKA_FOAM_5_lpd5ur.jpg"   alt="Mouka Foam">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225583/Mouka%20foam/MOUKA_FOAM_5_lpd5ur.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225583/Mouka%20foam/MOUKA_FOAM_5_lpd5ur.jpg"   alt="Mouka Foam">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225583/Mouka%20foam/MOUKA_FOAM_5_lpd5ur.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225583/Mouka%20foam/MOUKA_FOAM_zd6kuw.jpg"   alt="Mouka Foam">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225583/Mouka%20foam/MOUKA_FOAM_zd6kuw.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225583/Mouka%20foam/MOUKA_FOAM_zd6kuw.jpg"   alt="Mouka Foam">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225583/Mouka%20foam/MOUKA_FOAM_zd6kuw.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
                                     <div class="swiper-slide hov_zoom">
-                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225582/Mouka%20foam/MOUKA_FOAM_9_htrt3t.jpg"   alt="Mouka Foam">
-                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225582/Mouka%20foam/MOUKA_FOAM_9_htrt3t.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225582/Mouka%20foam/MOUKA_FOAM_9_htrt3t.jpg"   alt="Mouka Foam">
+                                        <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672225582/Mouka%20foam/MOUKA_FOAM_9_htrt3t.jpg" class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                     </div>
                                     <!-- swiper-slide end--> 
                                     <!-- swiper-slide-->  
