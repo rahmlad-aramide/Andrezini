@@ -1,15 +1,58 @@
 <!DOCTYPE HTML>
 <html lang="en">
-<?php
-//    header("Location: index.html");
-//    exit;
-?>
+    
 <!-- Mirrored from Andrezini.kwst.net/site/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 08:48:55 GMT -->
-    <?php include("partials/head.php") ?>
+<head>
+    <!--=============== basic  ===============-->
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Andrezini Projects - Architecture Portfolio</title>
+    <!--=============== css  ===============-->	
+    <link type="text/css" rel="stylesheet" href="css/plugins.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="css/color.css">
+    <link type="text/css" rel="stylesheet" href="css/custom.css">
+    <!--=============== favicons ===============-->
+    <link rel="shortcut icon" href="images/logo.png">
+</head>
     <body>
         <!--  main start  -->
         <div id="main">
-            <?php include("partials/header.php") ?>
+            <!--  header main-header  -->
+<header class="main-header">
+    <!--logo-->
+    <a href="index.html" class="logo-holder"><img src="images/picture2.png" alt="Andrezini" ;width="auto" height="32px"></a>
+    <!--logo end-->
+    <!-- share-button -->
+                    
+    <!-- nav-button-wrap-->
+    <div class="nav-button but-hol">
+        <span  class="ncs"></span>
+        <span class="nos"></span>
+        <span class="nbs"></span>
+        <div class="menu-button-text">Menu</div>
+    </div>
+    <!-- nav-button-wrap end-->						
+    <!--  navigation -->
+    <div class="nav-holder main-menu">
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.php" class="act-link ajax">Home </a>
+                </li>
+                <li><a href="portfolio.php"  class="ajax">Portfolio</a></li>
+                <li>
+                    <a href="about.php"  class="ajax">About</a>
+                </li>
+                <li>
+                    <a href="contacts.php" class="ajax">Contacts</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <!-- navigation  end -->
+</header>
+<!-- Header   end-->
             <!--  hero-wrap-social  -->
             <div class="social-container">
                 <div class="hero-wrap-social">
@@ -43,9 +86,13 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">25 may 2018</div>
-                                                        <h2><a href="#" class="ajax">CUBANA LOUNGE & BAR <br> <span>(GRIND/PABLO)</span></a></h2>
+                                                        <h2 class="animate"><a href="#" class="ajax">CUBANA LOUNGE & BAR <br> <span>(GRIND/PABLO)</span></a></h2>
                                                         <div class="clearfix"></div>
                                                         <a href="cubana-lounge.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                        <!-- <ul class="hero-slider_details">
+                                                            <li>Hello</li>
+                                                            <li>How far</li>
+                                                        </ul> -->
                                                         <div class="hero_slder_num"></div>
                                                     </div>
                                                 </div>
@@ -60,7 +107,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">14 march 2022</div>
-                                                        <h2><a href="evoke.php" class="ajax">Evoke <span>Nightclub</span></a></h2>
+                                                        <h2 class="animate"><a href="evoke.php" class="ajax">Evoke <span>Nightclub</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
@@ -77,7 +124,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">05 april 2021</div>
-                                                        <h2><a href="avanti.php" class="ajax">Avanti <br><span>Homes/Properties</span></a></h2>
+                                                        <h2 class="animate"><a href="avanti.php" class="ajax">Avanti <br><span>Homes/Properties</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
@@ -94,7 +141,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">30 december 2020</div>
-                                                        <h2><a href="#" class="ajax">Blackbell <br><span>Restaurant</span></a></h2>
+                                                        <h2 class="animate"><a href="#" class="ajax">Blackbell <br><span>Restaurant</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
@@ -164,30 +211,31 @@
         <script src="js/gsap.min.js"></script>
         <script  src="js/scripts.js"></script>
         <script>
-            const tlmx = new TimelineMax();
-            const firstText = document.querySelector(".first-slide");
+        const tlmx = new TimelineMax();
+        const firstText = document.querySelector(".first-slide");
 
-            tlmx.fromTo(
-            firstText,
-            2,
-            {
-                autoAlpha: 0,
-                xPercent: 100,
-                ease: Power4.easeInOut,
-                repeat: 1,
-                yoyo: true
-            },
-            {
-                autoAlpha: 1,
-                xPercent: 0
-            },
-            0
-            );
-            setTimeout(
-                tlmx.play(), 3500
-            )
-                
-        </script>
+        tlmx.fromTo(
+          firstText,
+          2,
+          {
+            autoAlpha: 0,
+            xPercent: 100,
+            ease: Power4.easeInOut,
+            repeat: 1,
+            yoyo: true
+          },
+          {
+            autoAlpha: 1,
+            xPercent: 0
+          },
+          0
+        );
+        setTimeout(
+            tlmx.play(), 5000
+        )
+        
+
+    </script>
     </body>
 
 <!-- Mirrored from Andrezini.kwst.net/site/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 08:48:57 GMT -->

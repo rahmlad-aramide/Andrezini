@@ -22,6 +22,27 @@ html{
 	height:100%;
 	overflow-y: scroll;
 }
+.animate-me {
+	/* transform: translateX(-200%); */
+	opacity: 0;
+	animation: slide-in-anim 1.5s ease-out forwards;
+}
+@keyframes slide-in-anim {
+	0% {
+		opacity: 0;
+		transform: translateX(100%);
+	}
+	/* 60% {
+		transform: translateX(60%);
+	}
+	75% {
+		transform: translateX(75%);
+	} */
+	100% {
+		opacity: 1;
+		transform: translateX(0%);
+	}
+}
 /* 
 Old root
 :root {
