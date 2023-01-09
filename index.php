@@ -43,7 +43,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">25 may 2018</div>
-                                                        <h2><a href="#" class="ajax">CUBANA LOUNGE & BAR <br> <span>(GRIND/PABLO)</span></a></h2>
+                                                        <h2><a href="#" class="ajax">CUBANA LOUNGE CLUB & BAR <br> <span>(GRIND/PABLO)</span></a></h2>
                                                         <div class="clearfix"></div>
                                                         <a href="cubana-lounge.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                         <div class="hero_slder_num"></div>

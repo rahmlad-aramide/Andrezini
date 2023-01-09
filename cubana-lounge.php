@@ -27,7 +27,7 @@
                     <!-- fw-carousel-wrap -->
                     <div class="fw-carousel-wrap fsc-holder single_project_carousel">
                         <div class="fsc-holder_title">
-                                <h2>Cubana Lounge & Bar<br>(Grind/Pablo)</h2>
+                                <h2>Cubana Lounge Club & Bar<br>(Grind/Pablo)</h2>
                             <div class="pr-det_btn">Project Details <i class="fas fa-long-arrow-right"></i></div>
 
                         </div>
@@ -177,7 +177,7 @@
                                 <div class="project-details_container fl-wrap">
                                     <div class="section-title fl-wrap">
                                         <h2>Project description</h2>
-                                        <p>Cubana Lounge & Bar</p>
+                                        <p>Cubana Lounge Club & Bar</p>
                                         <div class="sec-title_dec"></div>
                                     </div>
                                     <div class="modal-content fl-wrap">
