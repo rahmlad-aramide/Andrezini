@@ -1,7 +1,7 @@
 <!--  header main-header  -->
 <header class="main-header">
     <!--logo-->
-    <a href="index.html" class="logo-holder"><img src="images/picture2.png" alt="Andrezini" ;width="auto" height="32px"></a>
+    <a href="index.php" class="logo-holder"><img src="images/picture2.png" alt="Andrezini" width="auto" height="32px"></a>
     <!--logo end-->
     <!-- share-button -->
                     

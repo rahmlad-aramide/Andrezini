@@ -159,11 +159,11 @@
         </div>
         <!-- Main end -->
         <!--=============== scripts  ===============-->   
-        <script  src="js/jquery.min.js"></script>
-        <script  src="js/plugins.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/plugins.js"></script>
         <script src="js/gsap.min.js"></script>
-        <script  src="js/scripts.js"></script>
-        <script>
+        <script src="js/scripts.js"></script>
+        <!-- <script>
             const tlmx = new TimelineMax();
             const firstText = document.querySelector(".first-slide");
 
@@ -187,7 +187,7 @@
                 tlmx.play(), 3500
             )
                 
-        </script>
+        </script> -->
     </body>
 
 <!-- Mirrored from Andrezini.kwst.net/site/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 08:48:57 GMT -->
