@@ -47,6 +47,19 @@
                                 <!-- portfolio_item-->
                                 <div class="portfolio_item advisory design">
                                     <div class="grid-item-holder hov_zoom">
+                                        <img  src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" alt="Best western">
+                                        <div class="grid-det">
+                                            <div class="grid-det_category"><a href="#">In progress...</a></div>
+                                            <div class="grid-det-item">
+                                                <a href="best-western.php" class="ajax grid-det_link">Best Western</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- portfolio_item end-->
+                                <!-- portfolio_item-->
+                                <div class="portfolio_item advisory design">
+                                    <div class="grid-item-holder hov_zoom">
                                         <img  src="images/folio/AVANTI HOMES.jpg"    alt="">
                                         <div class="grid-det">
                                             <div class="grid-det_category"><a href="#">Advisory</a> <a href="#">Design</a></div>

@@ -2957,8 +2957,8 @@ section  {
 	position: absolute;
 	right: 0;
 	bottom: 0;
-	width: 350px;
-	padding: 130px 50px 40px;
+	width: 320px;
+	padding: 70px 50px 40px;
 	z-index: 10;
 	box-shadow: 0 10px 15px var(--brgb5);
 }

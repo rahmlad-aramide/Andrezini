@@ -35,6 +35,23 @@
                                     <div class="swiper-container  ">
                                         <div class="swiper-wrapper" >
                                             <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom">
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">In Progress</div>
+                                                        <h2><a href="#" class="ajax">Best <br><span>Western</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="best-western.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
                                             <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span> Victoria Island,Lagos </span>" data-fsslideropt2="Client : <span> Cubana Group</span>" data-fsslideropt3="status : <span>complete</span>"  >
                                                 <div class="fs-slider-item fl-wrap">
                                                     <div class="bg"  data-bg="images/bg/pablo2.jpeg" data-swiper-parallax="20%"></div>
@@ -102,23 +119,6 @@
                                                 </div>
                                             </div>
                                             <!-- swiper-slide-->
-                                            <!-- swiper-slide-->
-                                            <div class="swiper-slide hov_zoom">
-                                                <div class="fs-slider-item fl-wrap">
-                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" data-swiper-parallax="20%"></div>
-                                                    <div class="overlay"></div>
-                                                    <div class="fs-slider_align_title">
-                                                        <div class="fs-slider-item_dec-top"></div>
-                                                        <div class="fs-slider-item_dec-bottom"></div>
-                                                        <div class="hero_date">In Progress</div>
-                                                        <h2><a href="#" class="ajax">Best <br><span>Western</span></a></h2>
-                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
-                                                        <div class="clearfix"></div>
-                                                        <a href="best-western.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- swiper-slide-->
                                         </div>
                                     </div>
                                 </div>
@@ -180,31 +180,6 @@
         <script src="js/plugins.js"></script>
         <script src="js/gsap.min.js"></script>
         <script src="js/scripts.js"></script>
-        <!-- <script>
-            const tlmx = new TimelineMax();
-            const firstText = document.querySelector(".first-slide");
-
-            tlmx.fromTo(
-            firstText,
-            2,
-            {
-                autoAlpha: 0,
-                xPercent: 100,
-                ease: Power4.easeInOut,
-                repeat: 1,
-                yoyo: true
-            },
-            {
-                autoAlpha: 1,
-                xPercent: 0
-            },
-            0
-            );
-            setTimeout(
-                tlmx.play(), 3500
-            )
-                
-        </script> -->
     </body>
 
 <!-- Mirrored from Andrezini.kwst.net/site/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 08:48:57 GMT -->
