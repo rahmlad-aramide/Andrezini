@@ -29,7 +29,7 @@
                 <!-- fw-carousel-wrap -->
                 <div class="fw-carousel-wrap fsc-holder single_project_carousel">
                     <div class="fsc-holder_title">
-                        <h2>Best Western</h2>
+                        <h2>Best Western <br> Hotel</h2>
                         <div class="pr-det_btn">Project Details <i class="fas fa-long-arrow-right"></i></div>
                     </div>
                     <div class="fixed-bottom-panel">
@@ -83,8 +83,29 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348974/Best%20western/sample%20room%201/IMG_8394_lg7bb3.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348974/Best%20western/sample%20room%201/IMG_8394_lg7bb3.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
                                     <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348972/Best%20western/sample%20room%201/IMG_7811_dluu1j.jpg" alt="Best Western">
                                     <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348972/Best%20western/sample%20room%201/IMG_7811_dluu1j.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348969/Best%20western/sample%20room%201/IMG_8253_rjfy79.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348969/Best%20western/sample%20room%201/IMG_8253_rjfy79.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348968/Best%20western/sample%20room%201/IMG_7796_e1nqdp.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673348968/Best%20western/sample%20room%201/IMG_7796_e1nqdp.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
@@ -132,7 +153,7 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <video width="auto" height="100%" autoplay>
+                                    <video width="auto" height="100%" autoplay loop muted>
                                         <source src="https://res.cloudinary.com/dzhr3fddj/video/upload/q_auto:low/v1673303756/Best%20western/ClothStoreVideo_124124_z2sfu0.mp4">
                                     </video>
                                 </div>
@@ -146,11 +167,11 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <video width="auto" height="100%" autoplay>
+                                    <video width="auto" height="100%" autoplay loop muted>
                                         <source src="https://res.cloudinary.com/dzhr3fddj/video/upload/q_auto:low/v1673303334/Best%20western/BestHotelUpdateVideomain_115720_s8pgfr.mp4">
                                     </video>
                                 </div>
-                                <!-- swiper-slide end-->
+                                <!-- swiper-slide end -->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673349077/Best%20western/sample%20room%202/IMG_8262_pjmwwq.jpg" alt="Best Western">
@@ -160,7 +181,7 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <video width="auto" height="100%" autoplay>
+                                    <video width="auto" height="100%" autoplay loop muted>
                                         <source src="https://res.cloudinary.com/dzhr3fddj/video/upload/q_auto:low/v1673302603/Best%20western/BestHotelVideomain_gvdpvw.mp4">
                                     </video>
                                 </div>
@@ -181,6 +202,13 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350193/Best%20western/Roof/IMG_9164JPG_wjrymf.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350193/Best%20western/Roof/IMG_9164JPG_wjrymf.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
                                     <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350189/Best%20western/Roof/IMG_9224_z0yvd9.jpg" alt="Best Western">
                                     <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350189/Best%20western/Roof/IMG_9224_z0yvd9.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
@@ -195,6 +223,13 @@
                                 <!-- swiper-slide end-->                      
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350187/Best%20western/Roof/IMG_9153JPG_oi52ll.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350187/Best%20western/Roof/IMG_9153JPG_oi52ll.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
                                     <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350186/Best%20western/Roof/IMG_9051JPG_ngncbr.jpg" alt="Best Western">
                                     <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350186/Best%20western/Roof/IMG_9051JPG_ngncbr.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
@@ -202,8 +237,43 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350184/Best%20western/Roof/IMG_9047JPG_dj2ugs.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350184/Best%20western/Roof/IMG_9047JPG_dj2ugs.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
                                     <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350184/Best%20western/Roof/IMG_9018JPG_sdymhb.jpg" alt="Best Western">
                                     <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350184/Best%20western/Roof/IMG_9018JPG_sdymhb.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350183/Best%20western/Roof/IMG_8875JPG_iv25ec.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350183/Best%20western/Roof/IMG_8875JPG_iv25ec.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350178/Best%20western/Roof/IMG_8823JPG_u9vedp.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350178/Best%20western/Roof/IMG_8823JPG_u9vedp.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350177/Best%20western/Roof/IMG_8846_ecwrrg.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673350177/Best%20western/Roof/IMG_8846_ecwrrg.jpg"
+                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide hov_zoom">
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_20/v1673350177/Best%20western/Roof/IMG_8431_u8smty.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_20/v1673350177/Best%20western/Roof/IMG_8431_u8smty.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
@@ -252,7 +322,7 @@
                             <div class="project-details_container fl-wrap">
                                 <div class="section-title fl-wrap">
                                     <h2>Project description</h2>
-                                    <p>Best Western</p>
+                                    <p>Best Western <br> Hotel</p>
                                     <div class="sec-title_dec"></div>
                                 </div>
                                 <div class="modal-content fl-wrap">

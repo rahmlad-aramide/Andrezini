@@ -43,7 +43,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">In Progress</div>
-                                                        <h2><a href="#" class="ajax">Best <br><span>Western</span></a></h2>
+                                                        <h2><a href="#" class="ajax">Best Western<br><span>Hotel</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="best-western.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>

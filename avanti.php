@@ -102,7 +102,7 @@
                                             <div class="bg" data-bg="images/bg/1.jpg"></div>
                                         </div>
                                         <strong>Next Project</strong>
-                                        <span>Best Western<i class="fal fa-long-arrow-right"></i></span>
+                                        <span>Best Western Hotel<i class="fal fa-long-arrow-right"></i></span>
                                     </a>
                                 </div>
                                 <!-- swiper-slide end-->

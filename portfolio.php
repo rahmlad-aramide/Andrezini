@@ -51,7 +51,7 @@
                                         <div class="grid-det">
                                             <div class="grid-det_category"><a href="#">In progress...</a></div>
                                             <div class="grid-det-item">
-                                                <a href="best-western.php" class="ajax grid-det_link">Best Western</a>
+                                                <a href="best-western.php" class="ajax grid-det_link">Best Western Hotel</a>
                                             </div>
                                         </div>
                                     </div>
