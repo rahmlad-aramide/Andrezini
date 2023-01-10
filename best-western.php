@@ -29,7 +29,7 @@
                 <!-- fw-carousel-wrap -->
                 <div class="fw-carousel-wrap fsc-holder single_project_carousel">
                     <div class="fsc-holder_title">
-                        <h2>Avanti Homes/<br>Properties</h2>
+                        <h2>Best<br>Western</h2>
                         <div class="pr-det_btn">Project Details <i class="fas fa-long-arrow-right"></i></div>
                     </div>
                     <div class="fixed-bottom-panel">
@@ -48,61 +48,48 @@
                             <div class="swiper-wrapper">
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_POOL_csciaz.jpg" alt="Avanti 1">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_POOL_csciaz.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_10_gbzdji.jpg" alt="Avanti 2">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221974/avanti%20homes/AVANTI_HOMES_10_gbzdji.jpg"
+                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305295/Best%20western/Outdoors/IMG_8842_m9exz2.png" alt="Best Western">
+                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305295/Best%20western/Outdoors/IMG_8842_m9exz2.png"
                                         class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_6_glwrwh.jpg" alt="Avanti 3">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_6_glwrwh.jpg"
-                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                    <video width="auto" height="100%" autoplay>
+                                        <source src="https://res.cloudinary.com/dzhr3fddj/video/upload/q_auto:low/v1673303756/Best%20western/ClothStoreVideo_124124_z2sfu0.mp4">
+                                    </video>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_5_kwuiv2.jpg" alt="Avanti 4">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221972/avanti%20homes/AVANTI_HOMES_5_kwuiv2.jpg"
-                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                    <video width="auto" height="100%" autoplay>
+                                        <source src="https://res.cloudinary.com/dzhr3fddj/video/upload/q_auto:low/v1673303334/Best%20western/BestHotelUpdateVideomain_115720_s8pgfr.mp4">
+                                    </video>
                                 </div>
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_dcniij.jpg" alt="Avanti 5">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_dcniij.jpg"
-                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
+                                    <video width="auto" height="100%" autoplay>
+                                        <source src="https://res.cloudinary.com/dzhr3fddj/video/upload/q_auto:low/v1673302603/Best%20western/BestHotelVideomain_gvdpvw.mp4">
+                                    </video>
                                 </div>
                                 <!-- swiper-slide end-->
-                                <!-- swiper-slide-->
-                                <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_2_gom0e1.jpg" alt="Avanti 6">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672221971/avanti%20homes/AVANTI_HOMES_2_gom0e1.jpg"
-                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                </div>
-                                <!-- swiper-slide end-->
-                                <!-- swiper-slide-->
-                                <div class="swiper-slide hov_zoom">
-                                    <img src="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085375/avanti%20homes/AVANTI_HOMES_1_tceyal.jpg" alt="Avanti 7">
-                                    <a href="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672085375/avanti%20homes/AVANTI_HOMES_1_tceyal.jpg"
-                                        class="box-media-zoom   popup-image"><i class="fal fa-search"></i></a>
-                                </div>
-                                <!-- swiper-slide end-->
+                                
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide ss_last">
-                                    <a class="next-project-wrap ajax fl-wrap" href="best-western.php">
+                                    <a class="next-project-wrap ajax fl-wrap" href="black-bell.php">
                                         <div class="ss_pag-img">
                                             <div class="bg" data-bg="images/bg/1.jpg"></div>
                                         </div>
                                         <strong>Next Project</strong>
-                                        <span>Best Western<i class="fal fa-long-arrow-right"></i></span>
+                                        <span>Blackbell Restaurant<i class="fal fa-long-arrow-right"></i></span>
                                     </a>
                                 </div>
                                 <!-- swiper-slide end-->
@@ -126,19 +113,19 @@
                             <div class="project-details_container fl-wrap">
                                 <div class="section-title fl-wrap">
                                     <h2>Project description</h2>
-                                    <p>Avanti Homes/Properties</p>
+                                    <p>Best Western</p>
                                     <div class="sec-title_dec"></div>
                                 </div>
                                 <div class="modal-content fl-wrap">
                                     <p>Andrezini Project Ltd offered the
                                         following services: <br>
-                                        1) Design consultation (3d visuals). <br>
-                                        2) Advisory services.</p>
+                                        1) Loading... <br>
+                                        2) Loading... </p>
                                 </div>
                                 <div class="pr-list dark-bg fl-wrap">
                                     <ul>
-                                        <li><span>Status :</span> Completed </li>
-                                        <li><span>Location : </span> Enugu </li>
+                                        <li><span>Status :</span> In Progress </li>
+                                        <li><span>Location : </span>  </li>
                                     </ul>
                                     <span class="pr-list_dec"></span>
                                 </div>

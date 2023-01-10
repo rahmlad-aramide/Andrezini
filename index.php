@@ -43,7 +43,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">25 may 2018</div>
-                                                        <h2><a href="#" class="ajax">CUBANA LOUNGE CLUB & BAR <br> <span>(GRIND/PABLO)</span></a></h2>
+                                                        <h2><a href="#" class="ajax">CUBANA LOUNGE <br> <span> CLUB & BAR  </span></a></h2>
                                                         <div class="clearfix"></div>
                                                         <a href="cubana-lounge.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                         <div class="hero_slder_num"></div>
@@ -60,10 +60,10 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">14 march 2022</div>
-                                                        <h2><a href="evoke.php" class="ajax">Evoke <span>Nightclub</span></a></h2>
+                                                        <h2><a href="evoke.php" class="ajax">Evoke <br> <span>Nightclub</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
-                                                        <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                        <a href="evoke.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -80,7 +80,7 @@
                                                         <h2><a href="avanti.php" class="ajax">Avanti <br><span>Homes/Properties</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
-                                                        <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                        <a href="avanti.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -98,6 +98,23 @@
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom">
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">In Progress</div>
+                                                        <h2><a href="#" class="ajax">Best <br><span>Western</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="best-western.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
