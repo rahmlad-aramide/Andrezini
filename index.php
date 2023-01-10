@@ -37,7 +37,7 @@
                                             <!-- swiper-slide-->
                                             <div class="swiper-slide hov_zoom">
                                                 <div class="fs-slider-item fl-wrap">
-                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="bg" data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1673305290/Best%20western/Outdoors/IMG_8845_ob9xzv.jpg" data-swiper-parallax="20%"></div>
                                                     <div class="overlay"></div>
                                                     <div class="fs-slider_align_title">
                                                         <div class="fs-slider-item_dec-top"></div>
