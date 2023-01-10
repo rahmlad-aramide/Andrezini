@@ -9,5 +9,5 @@
     <link type="text/css" rel="stylesheet" href="css/color.css">
     <link type="text/css" rel="stylesheet" href="css/custom.css">
     <!--=============== favicons ===============-->
-    <link rel="shortcut icon" href="images/logo.png">
+    <link rel="shortcut icon" href="favicon.ico">
 </head>
