@@ -76,7 +76,8 @@
                                 </div>
                                 <div id="contact-form" class="fl-wrap">
                                     <div id="message"></div>
-                                    <form  class="custom-form" action="https://Andrezini.kwst.net/site/php/contact.php" name="contactform" id="contactform">
+                                    <form  class="custom-form" action="https://formspree.io/f/mbjejndv"
+                                        method="POST" name="contactform" id="contactform">
                                         <fieldset>
                                             <input type="text" name="name" id="name" placeholder="Your Name *"  value="">
                                             <input type="text"  name="email" id="email" placeholder="Email Address *"  value="">
