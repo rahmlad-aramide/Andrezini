@@ -77,10 +77,27 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">30 december 2020</div>
-                                                        <h2><a href="#" class="ajax">Blackbell <br><span>Restaurant</span></a></h2>
+                                                        <h2><a href="black-bell.php" class="ajax">Blackbell <br><span>Restaurant</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
-                                                        <a href="#" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                        <a href="black-bell.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Lagos , Nigeria</span>" data-fsslideropt2="Client : <span>Blackbell</span>" data-fsslideropt3="status : <span>complete</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672214254/Blackwell/blackbell_bar_2_3d_visuals_tc0llm.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="black-bell.php" class="ajax">Blackbell <br><span>(3D Visuals)</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="black-bell.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -94,7 +111,24 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">Completed</div>
-                                                        <h2><a href="#" class="ajax">Ciroc <span>Bar</span></a></h2>
+                                                        <h2><a href="#" class="ajax"><span>Ciroc Bar</span></a></h2>
+                                                        <div class="clearfix"></div>
+                                                        <a href="ciroc.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                        <div class="hero_slder_num"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span> Victoria Island,Lagos </span>" data-fsslideropt2="Client : <span> Cubana Group</span>" data-fsslideropt3="status : <span>complete</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg" data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672085465/circo/CIROC_BAR_2_oapxqv.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title first-slide">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="#" class="ajax">Ciroc Bar <span>(3D Visuals)</span></a></h2>
                                                         <div class="clearfix"></div>
                                                         <a href="ciroc.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                         <div class="hero_slder_num"></div>
@@ -112,6 +146,23 @@
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">25 may 2018</div>
                                                         <h2><a href="#" class="ajax">CUBANA LOUNGE <br> <span> CLUB & BAR  </span></a></h2>
+                                                        <div class="clearfix"></div>
+                                                        <a href="cubana-lounge.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                        <div class="hero_slder_num"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span> Victoria Island,Lagos </span>" data-fsslideropt2="Client : <span> Cubana Group</span>" data-fsslideropt3="status : <span>complete</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672076600/cubana/CUBANA_vs2dmi.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title first-slide">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="#" class="ajax">CUBANA LOUNGE <br> <span>(3D Visuals)</span></a></h2>
                                                         <div class="clearfix"></div>
                                                         <a href="cubana-lounge.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                         <div class="hero_slder_num"></div>
@@ -156,6 +207,23 @@
                                             <!-- swiper-slide-->
                                             <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
                                                 <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672090470/evoke/EVOKE_NIGHT_CLUB_3_cycphf.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="evoke.php" class="ajax">Evoke Nightclub <br> <span>(3D Visuals)</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="evoke.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
                                                     <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/INTERIOR_MGT_ssxlrj.jpg" data-swiper-parallax="20%"></div>
                                                     <div class="overlay"></div>
                                                     <div class="fs-slider_align_title">
@@ -163,6 +231,23 @@
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">Completed</div>
                                                         <h2><a href="farmcity.php" class="ajax"> Farmcity <br> <span>Restaurant & Bar</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="farmcity.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672221457/farmcity/FURNITURE_CONSULTANCY_3_q5fmlp.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="farmcity.php" class="ajax"> Farmcity <br> <span>(Furniture)</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="farmcity.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
@@ -190,13 +275,47 @@
                                             <!-- swiper-slide-->
                                             <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
                                                 <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672222191/Freshly%20pound/FRESHLY_POUND_15_zaox4k.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="freshly.php" class="ajax"> Freshly Pound <br> <span>Outdoor</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="freshly.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
                                                     <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223642/Imax%20filmhouse/IMAX_FILM_HOUSE_2_z02nhb.jpg" data-swiper-parallax="20%"></div>
                                                     <div class="overlay"></div>
                                                     <div class="fs-slider_align_title">
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">Completed</div>
-                                                        <h2><a href="imax-filmhouse.php" class="ajax"> Imax <br> <span>Filmhouse</span></a></h2>
+                                                        <h2><a href="imax-filmhouse.php" class="ajax"> Imax <br> <span>Film House</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="imax-filmhouse.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223643/Imax%20filmhouse/IMAX_FILM_HOUSE_3_w1ebbz.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="imax-filmhouse.php" class="ajax"> Imax Film <br> <span>House (3D Visuals)</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="imax-filmhouse.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
@@ -224,6 +343,23 @@
                                             <!-- swiper-slide-->
                                             <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
                                                 <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672223999/Johnnie%20Walker/JJW_6_3D_VISUALS_tuhbar.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="johnnie-walker.php" class="ajax"> Johnnie <span> Walker (3D Visuals)</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="johnnie-walker.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
                                                     <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODP_RESIDENTIALFurniture_1_s4sgtf.jpg" data-swiper-parallax="20%"></div>
                                                     <div class="overlay"></div>
                                                     <div class="fs-slider_align_title">
@@ -231,6 +367,23 @@
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">Completed</div>
                                                         <h2><a href="magodo-residential.php" class="ajax"> Magodo <br> <span>Residential</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="magodo-residential.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672224653/Magodo%20residential/MAGODO_RESIDENTIAL_Interior_design_mgt_3_ro86wv.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="magodo-residential.php" class="ajax"> Magodo <br> <span>Residential (Interior Design)</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="magodo-residential.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
@@ -275,6 +428,23 @@
                                             <!-- swiper-slide-->
                                             <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
                                                 <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/v1672225583/Mouka%20foam/MOUKA_FOAM_zd6kuw.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="mouka-foam.php" class="ajax"> Mouka Foam <span>(3D Visuals)</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="mouka-foam.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
                                                     <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/q_50/v1672230209/Prime%20water/PWV_INTERIOR_DESIGN_MGT_3_ayeilo.jpg" data-swiper-parallax="20%"></div>
                                                     <div class="overlay"></div>
                                                     <div class="fs-slider_align_title">
@@ -282,6 +452,23 @@
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">Completed</div>
                                                         <h2><a href="primewater.php" class="ajax"> Primewater<br> <span> View Gardens</span></a></h2>
+                                                        <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
+                                                        <div class="clearfix"></div>
+                                                        <a href="primewater.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- swiper-slide-->
+                                            <!-- swiper-slide-->
+                                            <div class="swiper-slide hov_zoom" data-fsslideropt1="Location : <span>Ilorin , Nigeria</span>" data-fsslideropt2="Client : <span>Evoke</span>" data-fsslideropt3="status : <span>In pregress</span>"  >
+                                                <div class="fs-slider-item fl-wrap">
+                                                    <div class="bg"  data-bg="https://res.cloudinary.com/dzhr3fddj/image/upload/c_mfit,h_1587/v1672230184/Prime%20water/PWV_LIGHTING_1_p0nvmj.jpg" data-swiper-parallax="20%"></div>
+                                                    <div class="overlay"></div>
+                                                    <div class="fs-slider_align_title">
+                                                        <div class="fs-slider-item_dec-top"></div>
+                                                        <div class="fs-slider-item_dec-bottom"></div>
+                                                        <div class="hero_date">Completed</div>
+                                                        <h2><a href="primewater.php" class="ajax"> Primewater View <br> <span> Gardens (Lightning)</span></a></h2>
                                                         <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in pulvinar neque. Nulla finibus lobortis pulvinar. </p> -->
                                                         <div class="clearfix"></div>
                                                         <a href="primewater.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
