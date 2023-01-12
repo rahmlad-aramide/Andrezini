@@ -60,7 +60,7 @@
                                 <!-- portfolio_item-->
                                 <div class="portfolio_item advisory design">
                                     <div class="grid-item-holder hov_zoom">
-                                        <img  src="images/folio/AVANTI HOMES.jpg"    alt="">
+                                        <img  src="images/folio/AVANTI HOMES.jpg"    alt="Avanti">
                                         <div class="grid-det">
                                             <div class="grid-det_category"><a href="#">Advisory</a> <a href="#">Design</a></div>
                                             <div class="grid-det-item">
