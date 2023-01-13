@@ -3604,7 +3604,7 @@ section  {
 }
 .contact-form-overlay , .filter-overlay {
 	z-index: 1;
-background: var(--orgb8);
+background: rgba(39, 39, 41, 0.8);
     -webkit-backdrop-filter: blur(4px);
     backdrop-filter: blur(4px);
 }
@@ -3691,13 +3691,13 @@ background: var(--orgb8);
 	font-weight: 600;
 	font-size: 12px;
 	position: relative;
-	color:var(--000);
+	color: #000;
 	font-family: 'Saira Semi Condensed', sans-serif; 
 	-webkit-appearance: none;
 }
 .custom-form input::-webkit-input-placeholder,
 .custom-form textarea::-webkit-input-placeholder  {
-	color: var(--666);
+	color: #666;
 	font-weight: 600;
 	font-size: 10px;
 	text-transform:uppercase;
@@ -3707,7 +3707,7 @@ background: var(--orgb8);
 }
 .custom-form input:-moz-placeholder,
 .custom-form textarea:-moz-placeholder {
-	color: var(--666);
+	color: #666;
 	font-weight: 600;
 	font-size: 10px;
 	text-transform:uppercase;
