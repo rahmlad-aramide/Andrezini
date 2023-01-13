@@ -1109,9 +1109,12 @@ blockquote p {
 .hlaf-slider-pag {
     position: absolute;
    	top:50%;
+	margin-top: 5px;
     right: 30px;
     z-index: 120;
 	width:20px;
+	height: 40vh;
+	overflow: hidden;
 	transform: translateY(-50%);
 }
 .hlaf-slider-pag_ss {
@@ -3724,7 +3727,7 @@ background: rgba(39, 39, 41, 0.8);
 .custom-form input {
 	margin-bottom: 20px;
 }
-.custom-form button {
+.custom-form input[type=submit] {
 	margin-top:25px;
 	font-size:10px;
 	outline: none;

@@ -84,7 +84,7 @@
                                             <div class="question">
                                                 <textarea name="comments"  id="comments" cols="40" rows="3" placeholder="Your Message:"></textarea>
                                             </div>
-                                            <button class="btn color-bg fl-btn" id="submit"><span>Send Message</span> </button>
+                                            <button type="submit" class="btn color-bg fl-btn" id="submit"><span>Send Message</span> </button>
                                         </fieldset>
                                     </form>
                                 </div>
