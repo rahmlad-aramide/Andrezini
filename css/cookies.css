@@ -1,0 +1,59 @@
+.cookie-container {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #ffffff;
+  border: 1px solid red;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  font-size: 1rem;
+  gap: 2rem;
+  opacity: 1;
+  visibility: visible;
+  flex-wrap: wrap;
+  z-index: 999;
+}
+
+.cookie-container.hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.cookie-container a {
+  color: red;
+}
+
+.cookie-container a:hover {
+  color: white;
+}
+
+p.cookie-text {
+    font-size: 14px;
+}
+
+.cookie-container .cookie-text {
+  flex: 8 768px;
+}
+
+.cookie-container .agree {
+  flex: 1 150px;
+  text-align: center;
+}
+
+.agree button {
+  background: red;
+  color: white;
+  border: none;
+  padding: 0.4rem 1.2rem;
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 1rem;
+  border: 1px solid red;
+}
+
+.agree button:hover {
+  background: white;
+  color: red;
+}

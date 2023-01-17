@@ -7,6 +7,15 @@
 <!-- Mirrored from Andrezini.kwst.net/site/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 22 Nov 2022 08:48:55 GMT -->
     <?php include("partials/head.php") ?>
     <body>
+        <!-- cookies consent -->
+        <div class="cookie-container hide">
+            <p class="cookie-text">
+                We use cookies and similar technologies that are necessary to operate the website. By continuing to use our website, you consent to our use of cookies.
+            </p>
+            <div class="agree">
+                <button>Close</button>
+            </div>
+        </div>
         <!--  main start  -->
         <div id="main">
             <?php include("partials/header.php") ?>
@@ -128,7 +137,7 @@
                                                         <div class="fs-slider-item_dec-top"></div>
                                                         <div class="fs-slider-item_dec-bottom"></div>
                                                         <div class="hero_date">Completed</div>
-                                                        <h2><a href="#" class="ajax">Ciroc Bar <span>(3D Visuals)</span></a></h2>
+                                                        <h2><a href="#" class="ajax">Ciroc Bar <br> <span>(3D Visuals)</span></a></h2>
                                                         <div class="clearfix"></div>
                                                         <a href="ciroc.php" class="half-hero-wrap_link ajax">View Project <i class="fal fa-long-arrow-right"></i></a>
                                                         <div class="hero_slder_num"></div>
@@ -587,6 +596,7 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/gsap.min.js"></script>
+        <script src="js/cookies.js"></script>
         <script src="js/scripts.js"></script>
     </body>
 
